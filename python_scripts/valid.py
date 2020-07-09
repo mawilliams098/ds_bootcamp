@@ -1,3 +1,4 @@
+#https://stackoverflow.com/a/54499811
 from nltk.corpus import words
 
 # make it a set to go faster
